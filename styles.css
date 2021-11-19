@@ -1,3 +1,24 @@
 body {
     font-size: 1.15em;
+    background: #2a2b2e;
+    color: #e0e0e2;
+}
+h1{
+    color: #f5b700;
+}
+h2{
+    color: #e0e0e2;
+}
+h3{
+    color: #008bf8;
+
+}
+h6{
+    color: #dc0073;
+}
+a{
+    color: #04f06a;
+}
+footer{
+    font-size: 0.5em;
 }
