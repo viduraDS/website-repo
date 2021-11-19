@@ -22,3 +22,9 @@ a{
 footer{
     font-size: 0.5em;
 }
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    font-size: 0.85em;
+}
